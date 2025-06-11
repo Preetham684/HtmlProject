@@ -1,0 +1,3 @@
+Story about git
+
+Today I learnt my first session on committing a file, and also my issue regarding the curb being painted as red to avoid accidents has just been approved.
