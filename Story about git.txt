@@ -1,3 +1,6 @@
 Story about what i have done today
 
 Today I learnt my first session on committing a file, and also my issue regarding the curb being painted as red to avoid accidents has just been approved.
+
+Prithivi - adding the below.
+This Git is so cool to track who is updating this file.
